@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ophantip.github.io/sitemap.html.gz
+Sitemap: https://ophantip.github.io/app/sitemap.html.gz
+Sitemap: https://ophantip.github.io/assets/sitemap.html.gz
+Sitemap: https://ophantip.github.io/css/sitemap.html.gz
+Sitemap: https://ophantip.github.io/includes/sitemap.html.gz
+Sitemap: https://ophantip.github.io/item/sitemap.html.gz
+Sitemap: https://ophantip.github.io/src/sitemap.html.gz
